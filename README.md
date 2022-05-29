@@ -1,4 +1,6 @@
-Hello There 👋, I am Sudip Nayak 
+Hello There 👋, I am Sudip Nayak,
+
+An Electronics and telecommunication Engineering Sophomore at IIIT, Bhubaneswar.
 
 A Front-end Web Developer soon to be a full stack Developer.
 
