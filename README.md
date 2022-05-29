@@ -1,7 +1,3 @@
-- Hello There👋, This is Sudip Nayak
-- 
-
-<!---
-Sudipnayak/Sudipnayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello There![wave-hello](https://user-images.githubusercontent.com/81667491/170885736-cac84942-9cd0-4735-8504-1164322c3590.gif)
+, I am Sudip Nayak Developer
+A Front-end We
